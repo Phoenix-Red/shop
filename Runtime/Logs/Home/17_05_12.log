@@ -1,0 +1,1721 @@
+[ 2017-05-12T09:10:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0286s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0271s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_hot=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0007s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_best=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0005s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_new=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000958s ]
+
+[ 2017-05-12T11:50:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0017s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_hot=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_best=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0002s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_new=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-05-12T11:57:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0407s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_hot=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_best=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0002s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_new=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012831s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-05-12T11:58:22+08:00 ] 127.0.0.1 /Home/cat/cat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0003s ]
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\CatController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0456s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id= ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id= ) 
+
+[ 2017-05-12T11:58:38+08:00 ] 127.0.0.1 /Home/cat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+ERR: 非法操作:index
+
+[ 2017-05-12T12:00:43+08:00 ] 127.0.0.1 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0181s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0499s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_hot=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0007s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_best=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0007s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_new=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000147s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-05-12T12:00:43+08:00 ] 127.0.0.1 /Home/Index/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+ERR: 非法操作:api
+
+[ 2017-05-12T12:00:43+08:00 ] 127.0.0.1 /Home/Index/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2017-05-12T12:00:43+08:00 ] 127.0.0.1 /Home/Index/animated_favicon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-05-12T12:00:43+08:00 ] 127.0.0.1 /Home/Index/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-05-12T12:01:03+08:00 ] 127.0.0.1 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-05-12T12:01:03+08:00 ] 127.0.0.1 /index.php/Home/User/yzm.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2017-05-12T12:01:03+08:00 ] 127.0.0.1 /index.php/Home/User/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+ERR: 非法操作:api
+
+[ 2017-05-12T12:01:06+08:00 ] 127.0.0.1 /index.php/Home/User/yzm.html?0.23919149207500312
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-05-12T12:01:06+08:00 ] 127.0.0.1 /index.php/Home/User/yzm.html?0.23919149207500312?0.7130425170236119
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-05-12T12:01:07+08:00 ] 127.0.0.1 /index.php/Home/User/yzm.html?0.23919149207500312?0.7130425170236119?0.08155651637253936
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-05-12T12:01:11+08:00 ] 127.0.0.1 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-05-12T12:01:12+08:00 ] 127.0.0.1 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005432s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-05-12T12:01:12+08:00 ] 127.0.0.1 /index.php/Home/User/yzm.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-05-12T12:01:12+08:00 ] 127.0.0.1 /index.php/Home/User/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+ERR: 非法操作:api
+
+[ 2017-05-12T12:01:13+08:00 ] 127.0.0.1 /index.php/Home/User/yzm.html?0.9002553721684616
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-05-12T12:01:22+08:00 ] 127.0.0.1 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1410s ]
+SQL: SELECT * FROM `user` WHERE ( username='admin123' ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-05-12T12:01:22+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0023s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_hot=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_best=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_new=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015413s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-05-12T12:01:25+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0003s ]
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\CatController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0020s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=3 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008826s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-05-12T12:01:25+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-05-12T12:01:25+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0002s ]
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\CatController.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0020s ]
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T12:01:25+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/animated_favicon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-05-12T12:01:25+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-05-12T12:01:26+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `goods` WHERE `goods_id` = 12 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 36 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0367s ]
+SQL: SELECT * FROM `comment` WHERE ( 1=1 AND goods_id='12' )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000249s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000294s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-05-12T12:01:26+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `goods` WHERE `goods_id` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `cat` LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000278s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000324s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021561s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-05-12T12:01:27+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/animated_favicon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-05-12T12:01:27+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-05-12T12:01:44+08:00 ] 127.0.0.1 /index.php/Home/Goods/addComment.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0042s ]
+SQL: INSERT INTO `comment` (`email`,`goods_id`,`content`) VALUES ('1231312@qq.com','12','<p>dasdasdNinoasdo不爱发<img src=\"http://img.baidu.com/hi/jx2/j_0019.gif\"/></p>') [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-05-12T12:01:46+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `goods` WHERE `goods_id` = 12 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 36 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `comment` WHERE ( 1=1 AND goods_id='12' )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016759s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-05-12T12:01:46+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `goods` WHERE `goods_id` = 0 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `cat` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000284s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000329s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021042s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021096s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-05-12T12:02:09+08:00 ] 127.0.0.1 /index.php/Home/Goods/addComment.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0245s ]
+SQL: INSERT INTO `comment` (`email`,`goods_id`,`content`) VALUES ('1222222@qq.com','12','<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><em><strong>啥地方放<img src=\"http://img.baidu.com/hi/jx2/j_0068.gif\"/></strong></em></span></p>') [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-05-12T12:02:10+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `goods` WHERE `goods_id` = 12 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 36 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `comment` WHERE ( 1=1 AND goods_id='12' )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-05-12T12:02:10+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `goods` WHERE `goods_id` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `cat` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000436s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000512s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024589s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2017-05-12T12:03:06+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `goods` WHERE `goods_id` = 12 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 36 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `comment` WHERE ( 1=1 AND goods_id='12' )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018241s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000713s ]
+
+[ 2017-05-12T12:03:06+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `goods` WHERE `goods_id` = 0 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `cat` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000248s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018791s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000648s ]
+
+[ 2017-05-12T12:03:07+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `goods` WHERE `goods_id` = 12 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 36 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: info E:\xampp\htdocs\www\Bool_code\shop\Home\Controller\GoodsController.class.php 第 38 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `comment` WHERE ( 1=1 AND goods_id='12' )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000236s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021480s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2017-05-12T12:03:08+08:00 ] 127.0.0.1 /index.php/Home/goods/goods/goods_id/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `goods` WHERE `goods_id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `cat` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000410s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000481s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000845s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000903s ]
+
+[ 2017-05-12T12:09:28+08:00 ] 127.0.0.1 /Home/cat/cat/cat_id/23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0192s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0322s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=23 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0472s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 23 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008983s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-05-12T12:09:28+08:00 ] 127.0.0.1 /Home/cat/cat/cat_id/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-05-12T12:09:28+08:00 ] 127.0.0.1 /Home/cat/cat/cat_id/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T12:09:28+08:00 ] 127.0.0.1 /Home/cat/cat/cat_id/animated_favicon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-05-12T12:09:28+08:00 ] 127.0.0.1 /Home/cat/cat/cat_id/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-05-12T12:09:34+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0049s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=8 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 8 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 6 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2017-05-12T12:09:35+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-05-12T12:09:35+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0018s ]
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T12:09:38+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0019s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=8 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 8 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 6 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000647s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2017-05-12T12:09:38+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-05-12T12:09:38+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0025s ]
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T12:09:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0021s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=7 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 7 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 6 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2017-05-12T12:09:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-05-12T12:09:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0033s ]
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T12:11:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0340s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0431s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_hot=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_best=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0002s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_new=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000623s ]
+
+[ 2017-05-12T12:12:02+08:00 ] 127.0.0.1 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0423s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_hot=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_best=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( is_new=1 ) ORDER BY goods_id desc LIMIT 4   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013150s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2017-05-12T12:12:02+08:00 ] 127.0.0.1 /Home/Index/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+ERR: 非法操作:api
+
+[ 2017-05-12T12:12:02+08:00 ] 127.0.0.1 /Home/Index/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-05-12T17:37:16+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:37:28+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:37:43+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:37:47+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:37:52+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:31+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:32+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:32+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:33+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:40+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:41+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:41+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:41+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:41+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:49:47+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:03+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:03+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:03+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:03+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:04+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:04+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:06+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:08+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:10+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:11+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:21+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:22+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:22+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:50:22+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:52:12+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:52:12+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:52:13+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:52:13+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:52:13+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:52:13+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:52:14+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:53:54+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:54:32+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:54:33+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:54:34+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:55:33+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:55:35+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:55:41+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/index.php.htm
+ERR: 1054:Unknown column 'index.php.htm' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=index.php.htm ) 
+
+[ 2017-05-12T17:55:44+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:55:48+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:55:53+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:56:01+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:56:06+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:56:09+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:56:12+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id= ) 
+
+[ 2017-05-12T17:56:13+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:56:17+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:56:26+08:00 ] 127.0.0.1 /index.php/Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T17:56:44+08:00 ] 127.0.0.1 /index.php/Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T17:56:56+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:57:18+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:57:19+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:57:19+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:57:19+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:57:19+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:57:20+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:57:23+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T17:57:24+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:41:11+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:41:16+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:41:16+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:41:20+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:41:22+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:41:23+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:41:25+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:41:26+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:43:55+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:43:55+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:43:56+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:44:00+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:44:12+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:44:15+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:44:15+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:45:46+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:46:34+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:46:35+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:46:53+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:46:55+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:47:49+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:47:53+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:48:31+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:48:31+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:48:32+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:48:40+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:48:44+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:48:44+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:48:49+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:48:50+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:22+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:23+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:23+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:23+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:23+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:29+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:31+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:32+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:32+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:44+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:44+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:49+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:50+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:50+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:50+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:51+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:53+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:58+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:50:59+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:51:58+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:52:01+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T18:52:04+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:04:50+08:00 ] 127.0.0.1 /
+ERR: XML标签语法错误
+
+[ 2017-05-12T19:05:07+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:05:08+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:06:21+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:06:27+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:06:57+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:06:57+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:06:57+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:06:58+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:07:03+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:07:05+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:07:22+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:07:24+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:09:56+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:11:26+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:11:28+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:11:29+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:11:30+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:11:30+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:11:33+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:11:34+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:11:34+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:11:35+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:12:32+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:12:50+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:12:55+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:26:25+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:55:08+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T19:55:16+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T19:55:18+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:55:20+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:55:22+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:55:23+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:55:27+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T19:55:38+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T19:56:02+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T19:58:47+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T19:58:47+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T19:58:47+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T19:58:50+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T19:58:51+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:00:00+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:00:00+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:00:00+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:00:01+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:00:01+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:00:01+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:00:11+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:01:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:01:43+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:01:51+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:10:06+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:10:14+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:10:21+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:10:27+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:10:33+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:10:38+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:10:41+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:10:51+08:00 ] 127.0.0.1 /index.php/Home/Cat/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:19:25+08:00 ] 127.0.0.1 /index.php/Home/User/api/cron.php-t=1452023217
+ERR: 非法操作:api
+
+[ 2017-05-12T20:22:05+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:23:29+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:25:33+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:25:40+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:25:42+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:25:43+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:25:45+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:25:45+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:25:54+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+
+[ 2017-05-12T20:26:36+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/index.php.htm
+ERR: 1054:Unknown column 'index.php.htm' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=index.php.htm ) 
+
+[ 2017-05-12T20:26:37+08:00 ] 127.0.0.1 /index.php/Home/Cat/cat/cat_id/api/cron.php-t=1452023217
+ERR: 1054:Unknown column 'api' in 'where clause'
+ [ SQL语句 ] : SELECT `goods_id`,`goods_name`,`shop_price`,`market_price`,`thumb_img` FROM `goods` WHERE ( cat_id=api ) 
+

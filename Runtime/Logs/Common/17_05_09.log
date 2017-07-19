@@ -1,0 +1,880 @@
+[ 2017-05-09T19:05:07+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+ERR: 无法加载模块:Api
+
+��模块:Themes
+
+[ 2017-05-09T19:05:07+08:00 ] 127.0.0.1 /index.php/animated_favicon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:Animated_favicon
+
+[ 2017-05-09T19:05:07+08:00 ] 127.0.0.1 /index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-05-09T19:05:07+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T19:05:07+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T19:06:10+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T19:06:10+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T19:07:26+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T19:07:26+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T19:08:43+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T19:08:43+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T19:08:44+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T19:08:44+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T20:55:53+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T20:55:53+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T21:12:39+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T21:12:39+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T21:12:44+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T21:12:44+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T21:12:58+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T21:12:58+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T21:27:31+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T21:27:31+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T21:27:32+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T21:27:32+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T21:27:32+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T21:27:32+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T21:27:33+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T21:27:33+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:01:57+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:Api
+
+��模块:Themes
+
+[ 2017-05-09T22:15:20+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:15:20+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:15:20+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:15:20+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:15:21+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:15:21+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:15:21+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:15:21+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:15:21+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:15:21+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:16:14+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:16:14+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:21:22+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:21:22+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:21:59+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:21:59+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:23:33+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:23:33+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:23:34+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:23:34+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:23:48+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:23:48+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:28:45+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:28:45+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:29:14+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:29:14+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:29:22+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:29:22+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:29:23+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:29:23+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:29:23+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:29:23+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:30:07+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:30:07+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:30:38+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:30:38+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:31:42+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:31:42+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:33:15+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:33:15+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:34:33+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:34:33+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:38:36+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:38:36+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:41:55+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:41:55+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:43:10+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:43:10+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:43:40+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:43:40+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:43:41+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:43:41+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:43:42+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:43:42+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:43:54+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:43:54+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:43:58+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:43:58+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:33+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:33+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:36+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:36+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:37+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:37+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:37+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:37+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:37+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:37+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:37+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:37+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:37+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:37+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:38+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:38+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:38+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:38+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:38+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:38+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001804s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:38+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:38+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:38+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:38+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:39+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:39+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:39+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:39+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:39+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:39+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:39+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:39+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:39+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:39+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:44:40+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:44:40+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:45:21+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:45:21+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:47:26+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:47:26+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:47:27+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:47:27+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:47:27+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:47:27+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:47:27+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:47:27+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:47:29+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:47:29+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:47:44+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:47:44+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:47:56+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:47:57+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:47:59+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:47:59+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:49:12+08:00 ] 127.0.0.1 /index.php/api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-09T22:49:12+08:00 ] 127.0.0.1 /index.php/themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-09T22:49:12+08:00 ] 127.0.0.1 /index.php/animated_favicon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Animated_favicon
+
+[ 2017-05-09T22:49:12+08:00 ] 127.0.0.1 /index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Favicon
+
